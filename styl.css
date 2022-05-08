@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    background: #968CCD;
+    height: 1620px;
+}
+/* header начало */
+header {
+    padding-top: 5px; 
+}
+.verx {
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 80px;
+    border: solid 1px black;
+    border-radius: 10px;
+}
+
+.verx nav {
+    text-align: center;
+    margin-top: 52px;
+}
+.verx a {
+    margin: 30px;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: solid 1px black;
+    border-radius: 10px;
+}
+/* header конец */
+/* main начало*/
+main {
+    padding-top: 5px; 
+}
+
+.mainn {
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 1425px;
+    border: solid 1px black;
+    border-radius: 10px;
+}
+/* main конец*/
+/* foother начало */
+.niz { 
+    margin-top: 5px; /*отступ от main */
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 80px;
+    border: solid 1px black;
+    border-radius: 10px;
+}
+
+.niz a {
+    margin: 30px;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: solid 1px black;
+    border-radius: 10px;
+}
+
+.niz nav {
+    text-align: center;
+    margin-top: 26px;
+}
+/* foother конец */
